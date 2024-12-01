@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736403122925",
+    "project_id": "pow-71ebd",
+    "storage_bucket": "pow-71ebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736403122925:android:5fd10de3794f9a8151bae4",
+        "android_client_info": {
+          "package_name": "com.example.pow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBcKQBqZn43dcSZt0ttsyEP_TsLktNsJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
